@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.clock {
+    margin: 50px auto;
+}
+
+#time {
+    font-size: 5rem;
+}
+
+#alarm-time, #stopwatch-time {
+    display: none;
+}
